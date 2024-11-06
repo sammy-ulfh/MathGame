@@ -1,6 +1,6 @@
 # MathGame
 
-<p align="content">
+<p align="center">
     <img src="img/Logo/logo.jpg"
     alt="Una imagen de una suma en un pizarrón."
     width="500"
